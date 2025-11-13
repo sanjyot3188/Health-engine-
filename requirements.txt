@@ -1,0 +1,5 @@
+  
+django==3.0.3
+joblib==0.14.1
+# scikit-learn
+# psycopg2==2.9.1
